@@ -12,9 +12,10 @@ const SpotInfoChat = () => {
           so the custom <spotinfo-chat> element is defined when React tries to render it.
       */}
       <Script 
-        src="https://cdn.jsdelivr.net/gh/spotinfo-ai/widget-dist-file@v1.0.0/chat-widget-web.umd.js"
+        src="https://www.spotinfo.ai/js/widget.umd.js"
         strategy="beforeInteractive" 
       />
+
 
       {/* 
         This is your custom element. React can render custom elements.

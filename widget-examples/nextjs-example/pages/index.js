@@ -90,7 +90,7 @@ export default function Home() {
 
       {/* This Script tag loads your widget's code. Keep it here. */}
       <Script
-        src="https://cdn.jsdelivr.net/gh/spotinfo-ai/widget-dist-file@v1.0.0/chat-widget-web.umd.js"
+        src="https://www.spotinfo.ai/js/widget.umd.js"
         strategy="afterInteractive"
         onLoad={() => {
           console.log("Spotinfo chat script has loaded successfully!");
