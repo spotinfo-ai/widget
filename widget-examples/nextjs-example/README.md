@@ -9,3 +9,11 @@ Run
 ```npn run dev```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+
+
+Pushing a new tag
+- Create a tag with message
+```git tag -a v1.0.4 -m "new dist file with z-index as 2147483647"```
+- Push to git
+```git push origin v1.0.4```
