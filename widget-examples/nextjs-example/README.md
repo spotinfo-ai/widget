@@ -14,7 +14,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 Pushing a new tag
 - Create a tag with message
-```git tag -a v1.0.6 -m "new dist file with external reach dependency"```
+```git tag -a v1.0.7 -m "new dist file with external reach dependency via widget"```
 
 - Push to git
-```git push origin v1.0.6```
+```git push origin v1.0.7```
