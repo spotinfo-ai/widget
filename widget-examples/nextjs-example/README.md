@@ -14,6 +14,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 Pushing a new tag
 - Create a tag with message
-```git tag -a v1.0.4 -m "new dist file with z-index as 2147483647"```
+```git tag -a v1.0.6 -m "new dist file with external reach dependency"```
+
 - Push to git
-```git push origin v1.0.4```
+```git push origin v1.0.6```
